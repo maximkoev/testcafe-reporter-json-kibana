@@ -1,6 +1,6 @@
 {
   "name": "testcafe-reporter-json-kibana",
-  "version": "2.2.0",
+  "version": "1.0",
   "description": "JSON TestCafe reporter plugin.",
   "repository": "https://github.com/maximkoev/testcafe-reporter-json-kibana",
   "main": "lib/index",
