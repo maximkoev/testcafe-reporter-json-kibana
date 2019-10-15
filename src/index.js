@@ -48,7 +48,7 @@ export default function () {
             this.report.endTime  = endTime;
             this.report.warnings = warnings;
 
-            this.write(JSON.stringify(this.report)).newline()
+            this.write(JSON.stringify(this.report)).newline();
         }
     };
 }
