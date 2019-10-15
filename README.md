@@ -10,12 +10,10 @@ Copy from https://github.com/DevExpress/testcafe-reporter-json with one differen
 
 ## Install
 
-This reporter is shipped with TestCafe by default. In most cases, you won't need to install it separately.
-
 However, if you need to install this reporter, you can use the following command.
 
 ```
-npm install testcafe-reporter-json
+npm install testcafe-reporter-json-kibana
 ```
 
 ## Usage
@@ -23,7 +21,7 @@ npm install testcafe-reporter-json
 When you run tests from the command line, specify the reporter name by using the `--reporter` option:
 
 ```
-testcafe chrome 'path/to/test/file.js' --reporter json
+testcafe chrome 'path/to/test/file.js' --reporter json-kibana
 ```
 
 
@@ -34,7 +32,7 @@ testCafe
     .createRunner()
     .src('path/to/test/file.js')
     .browsers('chrome')
-    .reporter('json') // <-
+    .reporter('json-kibana') // <-
     .run();
 ```
 
