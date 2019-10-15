@@ -1,7 +1,8 @@
 # testcafe-reporter-json
 [![Build Status](https://travis-ci.org/DevExpress/testcafe-reporter-json.svg)](https://travis-ci.org/DevExpress/testcafe-reporter-json)
 
-This is the **JSON** reporter plugin for [TestCafe](http://devexpress.github.io/testcafe).
+This is the **JSON** reporter plugin for [TestCafe](http://devexpress.github.io/testcafe).<br></br>
+Copy from https://github.com/DevExpress/testcafe-reporter-json with one difference, line break character removed. I did it for kibana. Without breaks it is easier to parse 
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/DevExpress/testcafe-reporter-json/master/media/preview.png" alt="preview" />

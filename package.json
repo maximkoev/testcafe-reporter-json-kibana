@@ -1,12 +1,8 @@
 {
-  "name": "testcafe-reporter-json",
+  "name": "testcafe-reporter-json-kibana",
   "version": "2.2.0",
   "description": "JSON TestCafe reporter plugin.",
-  "repository": "https://github.com/DevExpress/testcafe-reporter-json",
-  "author": {
-    "name": "Developer Express Inc.",
-    "url": "https://devexpress.com"
-  },
+  "repository": "https://github.com/maximkoev/testcafe-reporter-json-kibana",
   "main": "lib/index",
   "files": [
     "lib"
@@ -20,7 +16,8 @@
     "testcafe",
     "reporter",
     "plugin",
-    "json"
+    "json",
+    "kibana"
   ],
   "license": "MIT",
   "devDependencies": {
