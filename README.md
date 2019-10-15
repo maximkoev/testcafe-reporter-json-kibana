@@ -1,0 +1,1 @@
+# testcafe-reporter-json-kibana
